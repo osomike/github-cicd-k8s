@@ -1,0 +1,3 @@
+# Terraform
+/infrastructure/.terraform/
+*.terraform.lock.hcl
